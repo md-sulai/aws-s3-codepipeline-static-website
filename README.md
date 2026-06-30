@@ -136,6 +136,12 @@ Static Website Endpoint
 
 ---
 
+## Live Demo (RESULT)
+
+Website: http://sulai-prod.s3-website-us-east-1.amazonaws.com (RESULT)
+
+GitHub Repository: https://github.com/md-sulai/aws-s3-codepipeline-static-website
+
 ## ⭐ If you found this project useful, consider giving it a Star.
 
 ## Author
